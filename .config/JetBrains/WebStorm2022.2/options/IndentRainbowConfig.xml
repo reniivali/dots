@@ -1,0 +1,6 @@
+<application>
+  <component name="IndentRainbowConfig">
+    <option name="disableOnBigFiles" value="false" />
+    <option name="opacityMultiplier" value="0.79" />
+  </component>
+</application>

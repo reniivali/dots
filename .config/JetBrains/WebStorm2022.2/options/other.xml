@@ -1,0 +1,87 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2HIE0MZjcE4NT3T8LhHQIL1G3Zc">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HIGUIYBVMJrtrTQYIc9DA1RmIM">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HIIzUuaFtecE5PCeFzbSplpjmx">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HMo1y3QSkcv39hOCOdH0X2NYNu">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HTkSrGeZFgTnWISY1q3aKCEqhf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14.0" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "FindSplitterProportion": "0.3787466",
+    "GeneralSettings.initiallyConfigured": "true",
+    "INSPECTION_FILTER_HISTORY": "signa\nfunction\nduplica\njavas",
+    "InstalledPluginsSearchHistory": "rainbow\ncatpp\ncatp\ncat\nc",
+    "Markdown Split EditorLayout": "Preview only",
+    "MarketplacePluginsSearchHistory": "rainbow\nrainb\nrain\nrainv\nrainm",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.se.text.search": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "WS-222.4345.14",
+    "evlsprt3.222": "22",
+    "file.gist.reindex.count": "18",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "14.0",
+    "fontSizeToResetEditor": "14.0",
+    "got.it.tooltip.builtin.web.server.reload.on.save": "1",
+    "got.it.tooltip.copilot.inlayGotIt": "1",
+    "got.it.tooltip.web.preview.reload.on.save": "1",
+    "ide.memory.adjusted": "true",
+    "ignore.vm.options.env.vars": "true",
+    "input.method.disabler.muted": "true",
+    "js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3": "45997",
+    "last_opened_file_path": "/home/rhi/code/tetrisp5js",
+    "previousColorScheme": "_@user_Catppuccin Mocha",
+    "registry.to.advanced.settings.migration.build": "WS-222.4345.14",
+    "settings.code.style.selected.tab.JavaScript": "Tabs and Indents",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.7.4"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/rhi/code/bitburner-scripts",
+      "/home/rhi/catppuccin/README.md",
+      "/home/rhi/code/bb-saves",
+      "/home/rhi/code/tetrisp5js"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

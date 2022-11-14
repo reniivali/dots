@@ -1,0 +1,286 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="1" l="1668010758005" />
+    </e>
+    <e n="$Redo">
+      <i c="1" l="1668386730782" />
+    </e>
+    <e n="$SelectAll">
+      <i c="7" l="1668386754587" />
+    </e>
+    <e n="$Undo">
+      <i c="55" l="1668399387038" />
+    </e>
+    <e n="CheckinProject">
+      <i c="12" l="1668387093633" />
+    </e>
+    <e n="CloseContent">
+      <i c="1" l="1667967913918" />
+    </e>
+    <e n="CloseProject">
+      <i c="3" l="1668316428735" />
+    </e>
+    <e n="CopyPaths">
+      <i c="1" l="1668003721867" />
+    </e>
+    <e n="Coverage">
+      <i c="1" l="1668399474853" />
+    </e>
+    <e n="Diff.ShowDiff">
+      <i c="1" l="1668014987691" />
+    </e>
+    <e n="EditSource">
+      <i c="2" l="1668397696396" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="1273" l="1668402664695" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="10" l="1668401847688" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="63" l="1668402520576" />
+    </e>
+    <e n="EditorCopy">
+      <i c="43" l="1668402203401" />
+    </e>
+    <e n="EditorCut">
+      <i c="15" l="1668402394198" />
+    </e>
+    <e n="EditorDown">
+      <i c="175" l="1668402550297" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="1" l="1668386350232" />
+    </e>
+    <e n="EditorEnter">
+      <i c="235" l="1668402550804" />
+    </e>
+    <e n="EditorEscape">
+      <i c="4" l="1668385964604" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="1" l="1668317235234" />
+    </e>
+    <e n="EditorLeft">
+      <i c="569" l="1668402553899" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="38" l="1668402002758" />
+    </e>
+    <e n="EditorLineEndWithSelection">
+      <i c="1" l="1668386352956" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="1" l="1668002673110" />
+    </e>
+    <e n="EditorPaste">
+      <i c="65" l="1668402399831" />
+    </e>
+    <e n="EditorRight">
+      <i c="628" l="1668402559626" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="73" l="1668253878449" />
+    </e>
+    <e n="EditorTab">
+      <i c="19" l="1668401851914" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="3" l="1668402580632" />
+    </e>
+    <e n="EditorToggleInsertState">
+      <i c="2" l="1668397618188" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="2" l="1668002762213" />
+    </e>
+    <e n="EditorUp">
+      <i c="101" l="1668401225982" />
+    </e>
+    <e n="Exit">
+      <i c="5" l="1668402697858" />
+    </e>
+    <e n="ExpandLiveTemplateByTab">
+      <i c="1" l="1668003359057" />
+    </e>
+    <e n="Find">
+      <i c="3" l="1668397510591" />
+    </e>
+    <e n="FindPrevious">
+      <i c="3" l="1668003723711" />
+    </e>
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="11" l="1668387106910" />
+    </e>
+    <e n="GotoClass">
+      <i c="1" l="1668316477164" />
+    </e>
+    <e n="GotoNextError">
+      <i c="2" l="1668385962815" />
+    </e>
+    <e n="ManageRecentProjects">
+      <i c="1" l="1668397818095" />
+    </e>
+    <e n="Markdown.Layout.PreviewOnly">
+      <i c="1" l="1668316651292" />
+    </e>
+    <e n="NewHtmlFile">
+      <i c="2" l="1668316483317" />
+    </e>
+    <e n="NewJavaScriptFile">
+      <i c="6" l="1668386854575" />
+    </e>
+    <e n="NewStylesheetFile">
+      <i c="1" l="1668316512889" />
+    </e>
+    <e n="OpenFile">
+      <i c="5" l="1668397827666" />
+    </e>
+    <e n="OverrideFileTypeAction">
+      <i c="1" l="1668009898645" />
+    </e>
+    <e n="ProblemsView.QuickFixes">
+      <i c="67" l="1668397763818" />
+    </e>
+    <e n="Replace">
+      <i c="1" l="1668003738122" />
+    </e>
+    <e n="SaveAll">
+      <i c="145" l="1668402604016" />
+    </e>
+    <e n="SaveAs">
+      <i c="1" l="1667995035364" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1668316403869" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="4" l="1668398392784" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="13" l="1668434779331" />
+    </e>
+    <e n="ShowNavBar">
+      <i c="2" l="1668398387985" />
+    </e>
+    <e n="ShowSettings">
+      <i c="9" l="1668398394790" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1668399521237" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="3" l="1668402048989" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="1" l="1668104049146" />
+    </e>
+    <e n="Vcs.ShowDiffWithLocal">
+      <i c="3" l="1668036451825" />
+    </e>
+    <e n="Vcs.UpdateProject">
+      <i c="1" l="1667964422244" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="2" l="1667965186965" />
+    </e>
+    <e n="com.intellij.cloudConfig.CloudConfigWidget$1">
+      <i c="1" l="1668135312842" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.ConfigureInspectionsAction">
+      <i c="1" l="1668010272706" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
+      <i c="3" l="1667996106746" />
+    </e>
+    <e n="com.intellij.diff.impl.DiffRequestProcessor$MyNextDifferenceAction">
+      <i c="1" l="1668036097385" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="1" l="1668003702871" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="6" l="1668397582206" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
+      <i c="1" l="1668003977277" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="3" l="1668398407405" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$1">
+      <i c="1" l="1668316416679" />
+    </e>
+    <e n="com.intellij.ide.actions.runAnything.RunAnythingPopupUI$9">
+      <i c="1" l="1668316418675" />
+    </e>
+    <e n="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
+      <i c="1" l="1667967401050" />
+    </e>
+    <e n="com.intellij.ide.browsers.actions.OpenHtmlInEmbeddedBrowserAction">
+      <i c="15" l="1668434474482" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="2" l="1667964209010" />
+    </e>
+    <e n="com.intellij.lang.documentation.ide.ui.DocumentationPopupUI$OpenInToolwindowAction">
+      <i c="1" l="1668010863026" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="9" l="1668387124445" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="2" l="1668057639991" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="17" l="1668399104708" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.TrafficLightPopup$MenuAction">
+      <i c="1" l="1668010270417" />
+    </e>
+    <e n="com.intellij.openapi.file.exclude.OverrideFileTypeAction$ChangeToThisFileTypeAction">
+      <i c="1" l="1668009903354" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="38" l="1668402590947" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="3" l="1668316478282" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="2" l="1668316443321" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$3">
+      <i c="2" l="1667963948895" />
+    </e>
+    <e n="com.intellij.psi.css.browse.CssColorGutterRenderer$1">
+      <i c="3" l="1667995715229" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="41" l="1668399531520" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1668009816060" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1667964747416" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="1" l="1668316387932" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="3" l="1668402050680" />
+    </e>
+    <e n="com.jetbrains.debugger.wip.ChromeLocalVmConnection$launchBrowserAndOpen$1$1">
+      <i c="1" l="1668399489259" />
+    </e>
+    <e n="copilot.applyInlays">
+      <i c="46" l="1668402552763" />
+    </e>
+    <e n="copilot.loginGitHub">
+      <i c="1" l="1668057579769" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,75 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/code/tetrisp5js">
+          <value>
+            <RecentProjectMetaInfo frameTitle="tetrisp5js" projectWorkspaceId="2HIGUIYBVMJrtrTQYIc9DA1RmIM">
+              <option name="activationTimestamp" value="1667966331227" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-222.4345.14" />
+              <option name="buildTimestamp" value="1664946088955" />
+              <frame x="0" y="29" width="1920" height="1051" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1667965203300" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/WebstormProjects/idle">
+          <value>
+            <RecentProjectMetaInfo frameTitle="idle – main.js" projectWorkspaceId="2HIIzUuaFtecE5PCeFzbSplpjmx">
+              <option name="activationTimestamp" value="1667994752104" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-222.4345.14" />
+              <option name="buildTimestamp" value="1664946097982" />
+              <frame x="0" y="29" width="1366" height="739" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1667966433791" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/bb-saves">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bb-saves – README.md" projectWorkspaceId="2HMo1y3QSkcv39hOCOdH0X2NYNu">
+              <option name="activationTimestamp" value="1668135031919" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-222.4345.14" />
+              <option name="buildTimestamp" value="1664946118864" />
+              <frame x="-2" y="27" width="1924" height="1055" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1668104102753" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/bitburner-scripts">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bitburner-scripts" projectWorkspaceId="2HIE0MZjcE4NT3T8LhHQIL1G3Zc">
+              <option name="activationTimestamp" value="1668398408970" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-222.4345.14" />
+              <option name="buildTimestamp" value="1664946115135" />
+              <frame x="0" y="28" width="1920" height="1052" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1668385902040" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/reniivali">
+          <value>
+            <RecentProjectMetaInfo frameTitle="reniivali – index.html" opened="true" projectWorkspaceId="2HTkSrGeZFgTnWISY1q3aKCEqhf">
+              <option name="activationTimestamp" value="1668434850928" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-222.4345.14" />
+              <option name="buildTimestamp" value="1664946113180" />
+              <frame x="0" y="28" width="1366" height="740" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1668398410559" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/code/reniivali" />
+    <option name="lastProjectLocation" value="$USER_HOME$/code" />
+  </component>
+</application>
