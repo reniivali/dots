@@ -6,7 +6,7 @@
 	"height": 24,
 
 	"modules-left": [
-		"custom/space",
+		//"custom/space",
 		"custom/left-arrow-dark",
 		"wlr/workspaces",
 		"custom/right-arrow-dark-solid",
@@ -48,8 +48,8 @@
 		"custom/left-arrow-light",
 		"custom/left-arrow-dark-solid",
 		"cpu",
-		"custom/right-arrow-dark",
-		"custom/space"
+		"custom/right-arrow-dark"
+		//"custom/space"
 		//"custom/left-arrow-light",
 		//"custom/left-arrow-dark",
 		//"battery",
