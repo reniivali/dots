@@ -1,0 +1,135 @@
+* {
+	font-size: 16px;
+	font-family: 'Fira Code', monospace;
+}
+
+window#waybar {
+	background: rgba(41, 43, 46, 0);
+	color: #cdd6f4;
+}
+
+#custom-right-arrow-dark,
+#custom-left-arrow-dark,
+#custom-right-arrow-dark-solid,
+#custom-left-arrow-dark-solid,
+#custom-right-arrow-light,
+#custom-left-arrow-light {
+	font-size: 20px;
+}
+
+/*#custom-left-arrow-light,
+#custom-left-arrow-dark-solid,
+#custom-left-arrow-dark {
+	margin-right: 0px;
+	padding-right: 0px;
+	border-right-width: 0px;
+	font-family: "FiraCode Nerd Font";
+	outline-width: 0px;
+	outline-offset: 0px;
+	outline-style: none;
+	border-image-width: 0px;
+}*/
+
+#custom-right-arrow-dark,
+#custom-left-arrow-dark {
+	color: #1e1e2e;
+}
+
+#custom-right-arrow-dark-solid,
+#custom-left-arrow-dark-solid {
+	color: #1e1e2e;
+	background: #313244;
+}
+
+#custom-right-arrow-light,
+#custom-left-arrow-light {
+	color: #313244;
+	background: #1e1e2e;
+}
+
+#wlr-workspaces,
+#clock.1,
+#clock.2,
+#clock.3,
+#pulseaudio,
+#memory,
+#cpu,
+#battery,
+#disk,
+#tray,
+#backlight,
+#custom-spotify,
+#custom-pp,
+#custom-ff,
+#custom-rw {
+	background: #1e1e2e;
+}
+
+#wlr-workspaces, button {
+	padding: 0 2px;
+	padding-left: 4px;
+	padding-right: 4px;
+	color: #cdd6f4;
+	background-color: #1e1e2e;
+	border: none;
+	border-radius: 0;
+}
+#workspaces.focused button.focused{
+	color: #a6e3a1;
+}
+#wlr-workspaces:hover, button:hover{
+	color: #a6e3a1;
+	background-color: #1a1a1a;
+	border-color:rgba(166,227,161,1);
+}
+#pulseaudio {
+	color: #74c7ec;
+}
+#memory {
+	color: #94e2d5;
+}
+#cpu {
+	color: #89b4fa;
+}
+#battery {
+	color: #859900;
+}
+#disk {
+	color: #fab387;
+}
+#backlight {
+	color: #eba0ac;
+}
+#custom-spotify {
+	color: #1DB954;
+}
+
+#clock,
+#pulseaudio,
+#memory,
+#cpu,
+#battery,
+#disk,
+#backlight,
+#tray,
+#custom-spotify {
+	padding: 0 10px;
+}
+
+#custom-pp,
+#custom-ff,
+#custom-rw {
+	font-size: 23px;
+}
+
+#custom-rw {
+	padding-left: 10px;
+}
+
+#custom-ff {
+	padding-right: 10px;
+}
+
+#custom-pp {
+	padding: 0 10px;
+}

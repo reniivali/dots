@@ -1,0 +1,215 @@
+// -*- mode: jsonc -*-
+
+{
+	"layer": "top",
+	"position": "top",
+	"height": 24,
+
+	"modules-left": [
+		"custom/space",
+		"custom/left-arrow-dark",
+		"wlr/workspaces",
+		"custom/right-arrow-dark-solid",
+		//"custom/right-arrow-light",
+		//"custom/rw",
+		//"custom/pp",
+		//"custom/ff",
+		//"custom/right-arrow-dark-solid",
+		"custom/right-arrow-light",
+		"custom/spotify",
+		"custom/right-arrow-dark"
+	],
+	"modules-center": [
+		"custom/left-arrow-dark",
+		"clock#1",
+		"custom/left-arrow-light",
+		"custom/left-arrow-dark-solid",
+		"clock#2",
+		"custom/right-arrow-dark-solid",
+		"custom/right-arrow-light",
+		"clock#3",
+		"custom/right-arrow-dark"
+	],
+	"modules-right": [
+		"custom/left-arrow-dark",
+		"tray",
+		"custom/left-arrow-light",
+		"custom/left-arrow-dark-solid",
+		"disk",
+		"custom/left-arrow-light",
+		"custom/left-arrow-dark-solid",
+		"backlight",
+		"custom/left-arrow-light",
+		"custom/left-arrow-dark-solid",
+		"pulseaudio",
+		"custom/left-arrow-light",
+		"custom/left-arrow-dark-solid",
+		"memory",
+		"custom/left-arrow-light",
+		"custom/left-arrow-dark-solid",
+		"cpu",
+		"custom/right-arrow-dark",
+		"custom/space"
+		//"custom/left-arrow-light",
+		//"custom/left-arrow-dark",
+		//"battery",
+		//"custom/left-arrow-light",
+	],
+
+	"custom/left-arrow-dark": {
+		"format": "",
+		"tooltip": false
+	},
+	"custom/left-arrow-light": {
+		"format": "",
+		"tooltip": false
+	},
+	"custom/right-arrow-dark": {
+		"format": "",
+		"tooltip": false
+	},
+	"custom/right-arrow-light": {
+		"format": "",
+		"tooltip": false
+	},
+	"custom/right-arrow-dark-solid": {
+		"format": "",
+		"tooltip": false
+	},
+	"custom/left-arrow-dark-solid": {
+		"format": "",
+		"tooltip": false
+	},
+	"custom/space": {
+		"format": " ",
+		"tooltip": false
+	},
+
+	"custom/pp": {
+		"format": "懶",
+		"tooltip": false,
+		"on-click":"playerctl play-pause"
+	},
+	"custom/ff": {
+		"format": "怜",
+		"tooltip": false,
+		"on-click":"playerctl next"
+	},
+	"custom/rw": {
+		"format": "玲",
+		"tooltip": false,
+		"on-click":"playerctl previous"
+	},
+	"custom/spotify": {
+		"exec": "/bin/bash /home/rhi/.config/waybar/sptf.sh",
+		"restart-interval": 10,
+		"format": " {}",
+		"return-type": "json",
+		"on-click": "playerctl play-pause",
+		"on-scroll-up": "playerctl next",
+		"on-scroll-down": "playerctl previous"
+	},
+
+	"sway/workspaces": {
+		"disable-scroll": true,
+		"format": "{name}"
+	},
+
+	"clock#1": {
+		"format": "{:%A}",
+		"tooltip": false
+	},
+	"clock#2": {
+		"format": "{:%H:%M:%S}",
+		"tooltip": false,
+		"interval" : 1
+	},
+	"clock#3": {
+		"format": "{:%m-%d-%y}",
+		"tooltip": false
+	},
+
+	"pulseaudio": {
+		"format": "{icon} {volume:2}%",
+		"format-bluetooth": "{icon}  {volume}%",
+		"format-muted": "MUTE",
+		"format-icons": {
+			"headphones": "",
+			"default": [
+				"",
+				""
+			]
+		},
+		"scroll-step": 5,
+		"on-click": "pavucontrol"
+		//"on-click-right": "pavucontrol"
+	},
+	"memory": {
+		"interval": 5,
+		"format": " {}%"
+	},
+	"cpu": {
+		"interval": 5,
+		"format": " {usage:2}%"
+	},
+	"battery": {
+		"states": {
+			"good": 95,
+			"warning": 30,
+			"critical": 15
+		},
+		"format": "{icon} {capacity}%",
+		"format-icons": [
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	},
+	"backlight": {
+		"tooltip": false,
+		"format": " {}%",
+		"interval":1,
+        "on-scroll-up": "brightnessctl s +5%",
+		"on-scroll-down": "brightnessctl s 5%-"
+	},
+	"disk": {
+		"interval": 5,
+		"format": " {percentage_used:2}%",
+		"path": "/"
+	},
+	"tray": {
+		"icon-size": 20,
+		"spacing": 5
+	},
+	"wlr/workspaces": {
+		"format": "{icon}",
+		"on-click": "activate",
+		"all-outputs": false,
+		"format-icons": {
+			"1": "",
+			"2": "切",
+			"3": "",
+			"4": "",
+			"5": "",
+			"6": "﬏",
+			"7": "",
+			"8": "",
+			"9": "",
+			"10": "X",
+			"11": "XI",
+			"12": "XII",
+			"13": "XIII",
+			"14": "XIV",
+			"15": "XV",
+			"16": "XVI",
+			"17": "XVII",
+			"18": "XVIII",
+			"19": "XIX",
+			"20": "XX",
+			"active": "",
+			"default": ""
+		}
+	}
+}
