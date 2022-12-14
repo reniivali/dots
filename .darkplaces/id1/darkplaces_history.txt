@@ -1,0 +1,7 @@
+antialiasing
+clear
+r_font_antialias=0
+set
+set r_font_antialias 0
+set r_font_antialias 1
+set r_font_antialias 0
